@@ -9,6 +9,8 @@ A minimalist web proxy built to be simple yet powerful.
 
 Submission for the 2024 Proxathon.
 
+Try it [now!](https://nano-proxy.github.io)
+
 ### Source
 You can find the source code for nano [here.](https://github.com/nano-proxy/nano)
 
