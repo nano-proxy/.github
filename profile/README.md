@@ -7,7 +7,7 @@
 ### About
 A minimalist web proxy built to be simple yet powerful.
 
-Submission for the 2024 Proxathon.
+Winner of the 2024 Proxathon.
 
 Try it [now!](https://nano-proxy.github.io)
 
