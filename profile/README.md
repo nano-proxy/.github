@@ -12,7 +12,7 @@ Winner of the 2024 Proxathon.
 Try it [now!](https://nano-proxy.github.io)
 
 ### Source
-You can find the source code for nano [here.](https://github.com/nano-proxy/nano)
+You can find the source code for nano [here.](https://github.com/titaniumnetwork-dev/nano)
 
 ### Developers
 [Leaflet](https://github.com/leafletdev)
